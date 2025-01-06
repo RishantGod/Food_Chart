@@ -1,0 +1,101 @@
+﻿Category,Names,DQR,Agriculture,Transformation,Packaging,Transportation,Supermarket_and_distribution,Consumption,Total,Images
+Vegetable,Eggplant,2.72,0.18,0,0,0.26,0.02,0.01,0.47,Capsicum.JPG
+Vegetable,Beetroot,2.91,0.09,0,0,0.26,0.02,0.03,0.41,"img/Fig.png"
+Vegetable,Broccoli,2.94,0.49,0.12,0.12,0.24,0.07,0.03,1.06,"img/Strawberry.png"
+Vegetable,Carrot,2.24,0.08,0,0,0.26,0.02,0.03,0.4,"img/Fig_2.png"
+Vegetable,Celery,2.88,0.44,0,0,0.25,0.02,0.01,0.72,img/Fig.jpg
+Vegetable,Morel,2.88,5.74,0,0,0.3,0.06,0.08,6.17,img/Fig.jpg
+Vegetable,Brussels sprout,2.94,0.25,0.09,0.12,0.23,0.07,0.03,0.78,img/Fig.jpg
+Vegetable,Cauliflower,2.1,0.31,0,0,0.3,0.03,0.08,0.72,img/Fig.jpg
+Vegetable,Cucumber,2.64,0.2,0,0,0.26,0.02,0.03,0.51,img/Fig.jpg
+Vegetable,"Squash, butternut",2.99,0.21,0,0,0.33,0.03,0.08,0.64,img/Fig.jpg
+Vegetable,Artichoke,2.64,0.62,0,0,0.6,0.05,1.29,2.56,img/Fig.jpg
+Vegetable,Avocado,2.81,0.88,0,0,0.51,0.03,0.14,1.55,img/Fig.jpg
+Vegetable,Courgette or zucchini,2.95,0.18,0,0,0.26,0.02,0.03,0.5,img/Fig.jpg
+Vegetable,Spinach,2.58,0.12,0,0,0.25,0.05,0.01,0.42,img/Fig.jpg
+Vegetable,French bean,2.09,0.12,0,0,0.26,0.03,0.04,0.45,img/Fig.jpg
+Vegetable,Romaine lettuce,2.66,0.18,0,0,0.4,0.07,0.22,0.87,img/Fig.jpg
+Vegetable,Sweet corn,2.52,0.45,0.12,0.12,0.21,0.07,0.03,0.99,img/Fig.jpg
+Vegetable,Turnip,2.83,0.08,0,0,0.26,0.02,0.03,0.4,img/Fig.jpg
+Vegetable,Onion,2.39,0.1,0,0,0.27,0.02,0.03,0.42,img/Fig.jpg
+Vegetable,Asparagus (green),2.75,0.97,0,0,0.42,0.04,0.22,1.64,img/Fig.jpg
+Vegetable,Garden peas,1.76,0.32,0.07,0.12,0.21,0.07,0.03,0.81,img/Fig.jpg
+Vegetable,Leek,2.52,0.21,0,0,0.3,0.02,0.08,0.61,img/Fig.jpg
+Vegetable,Pumpkin,2.99,0.21,0,0,0.33,0.03,0.08,0.64,img/Fig.jpg
+Vegetable,Tomato,2.77,0.33,0,0,0.32,0.03,0.08,0.75,img/Fig.jpg
+Vegetable,Potato,2.26,0.11,0,0.45,0.19,0.02,0.01,0.79,img/Fig.jpg
+Fruit,Apricot,2.18,0.35,0,0.66,0.34,0.02,0.08,1.45,img/Fig.jpg
+Fruit,Banana,2.61,0.3,0,0,0.45,0.03,0.14,0.91,img/Fig.jpg
+Fruit,Lemon,2.72,0.19,0,0,0.41,0.03,0.14,0.76,img/Fig.jpg
+Fruit,"Quince, raw",2.94,0.1,0,0,0.36,0.02,0.08,0.56,img/Fig.jpg
+Fruit,Strawberry,2.41,0.24,0,0,0.27,0.01,0.01,0.53,img/Fig.jpg
+Fruit,Kiwi,1.94,0.48,0.01,0,0.41,0.01,0.08,1,img/Fig.jpg
+Fruit,Pineapple,2.86,0.37,0,0,0.65,0.03,0.32,1.36,img/Fig.jpg
+Fruit,Mandarin,2.74,0.01,0,0,0.36,0.02,0.08,0.47,img/Fig.jpg
+Fruit,Mango,2.94,0.15,0,0,0.47,0.02,0.08,0.73,img/Fig.jpg
+Fruit,"Melon, cantaloupe",2.87,0.32,0,0,0.42,0.03,0.22,0.98,img/Fig.jpg
+Fruit,Papaya,2.67,0.18,0,0,0.65,0.02,0.08,0.93,img/Fig.jpg
+Fruit,Watermelon,2.87,0.24,0,0,0.35,0.02,0.08,0.68,img/Fig.jpg
+Fruit,Peach,2.36,0.18,0,0,0.31,0.02,0.08,0.59,img/Fig.jpg
+Fruit,Pear,2.69,0.07,0,0,0.27,0.01,0.03,0.39,img/Fig.jpg
+Fruit,Apple,2.01,0.09,0,0,0.26,0.02,0.03,0.41,img/Fig.jpg
+Fruit,Cherry,2.2,0.64,0,0.66,0.34,0.02,0.08,1.74,img/Fig.jpg
+Fruit,Grape,2.7,0.17,0,0,0.29,0.02,0.03,0.51,img/Fig.jpg
+Fruit,Blueberry,3.49,0.65,0,0,0.25,0.02,0.01,0.92,img/Fig.jpg
+Fruit,Raspberry,4.05,1.04,0,0,0.48,0.01,0.01,1.55,img/Fig.jpg
+Fruit,"Fig, raw",3.49,0.18,0,0,0.33,0.02,0.08,0.61,img/Fig.jpg
+Fruit,Blackberry,4.13,0.7,0,0,0.25,0.02,0.01,0.97,img/Fig.jpg
+Fruit,Pomegranate,3.05,0.1,0,0,0.3,0.02,0.08,0.5,img/Fig.jpg
+Fruit,Passion fruit,3.59,0.54,0,0,0.3,0.02,0.08,0.94,img/Fig.jpg
+Meat,"Egg, raw",2.44,1.49,0,0.11,0.19,0.01,0.08,1.88,img/Fig.jpg
+Meat,Lamb,2.97,40.6,0.07,0.25,0.37,0.05,0.09,41.4,img/Fig.jpg
+Meat,Duck,2.98,6.05,1.04,0.47,0.36,0.05,0.09,8.06,img/Fig.jpg
+Meat,Young goat,2.97,40.6,0.07,0.25,0.37,0.05,0.09,41.4,img/Fig.jpg
+Meat,Turkey,2.13,3,0.83,0.38,0.31,0.04,0.01,4.56,img/Fig.jpg
+Meat,Rabbit,2.12,3.75,1.04,0.47,0.38,0.05,0.09,5.78,img/Fig.jpg
+Meat,Goose,2.12,3.75,1.04,0.06,0.32,0.05,0.09,5.31,img/Fig.jpg
+Meat,Beef,2.85,28.3,0.12,0.2,0.29,0.04,0.01,28.9,img/Fig.jpg
+Meat,Guinea fowl,2.12,3.75,1.04,0.47,0.38,0.05,0.09,5.78,img/Fig.jpg
+Meat,Pork,2.85,6.06,0,0.2,0.26,0.04,0.01,6.57,img/Fig.jpg
+Meat,Mutton,2.97,32.5,0.05,0.2,0.29,0.04,0.01,33.1,img/Fig.jpg
+Meat,Chicken,2.09,3.75,1.09,0.38,0.32,0.04,0.01,5.58,img/Fig.jpg
+Meat,Veal,2.87,22.5,0.11,0.2,0.29,0.04,0.01,23.2,img/Fig.jpg
+Legumes,Broad bean,2.85,0.51,0,0.13,0.15,0.07,0,0.86,img/Fig.jpg
+Legumes,Mung Bean,2.95,0.1,0,0.13,0.28,0.07,0,0.57,img/Fig.jpg
+Legumes,Red kidney bean,2.99,0.5,0.21,0.46,0.25,0.03,0.01,1.45,img/Fig.jpg
+Legumes,Blond Lentil,2.87,0.14,0,0.13,0.24,0.07,0,0.58,img/Fig.jpg
+Legumes,Red Lentil,2.87,0.14,0,0.13,0.24,0.07,0,0.58,img/Fig.jpg
+Legumes,Green Lentil,2.87,0.14,0,0.13,0.24,0.07,0,0.58,img/Fig.jpg
+Legumes,Chick pea,2.71,0.17,0,0.13,0.14,0.03,0.14,0.6,img/Fig.jpg
+Nuts,Flaxseed,2.41,0.89,1.48,0.38,0.41,0.05,0.32,3.53,img/Fig.jpg
+Nuts,Macadamia nut,2.73,3.07,0.2,0.19,0.18,0.02,0,3.66,img/Fig.jpg
+Nuts,Pecan nut,2.73,3.07,0.2,0.19,0.18,0.02,0,3.66,img/Fig.jpg
+Nuts,Walnut,2.84,3.07,0,0.38,0.3,0.05,0.32,4.11,img/Fig.jpg
+Nuts,Almond paste or marzipan,2.8,1.42,0.26,0.21,0.26,0.03,0,2.18,img/Fig.jpg
+Nuts,Tahini (sesame paste),2.52,2.15,0.19,0.21,0.28,0.03,0,2.85,img/Fig.jpg
+Nuts,Sunflower seed,2.57,1.8,0.02,0.38,0.35,0.05,0.32,2.91,img/Fig.jpg
+Nuts,Almond,3.1,1.87,0.2,0.19,0.36,0.02,0,2.63,img/Fig.jpg
+Nuts,Peanut,3.46,3.6,0.2,0.19,0.18,0.02,0,4.18,img/Fig.jpg
+Nuts,Cashew nut,3.66,2.65,0.2,0.19,0.5,0.02,0,3.56,img/Fig.jpg
+Nuts,Pistachio,4.23,5.83,0,0.38,0.64,0.05,0.32,7.22,img/Fig.jpg
+Dairy,Sheep milk,2.67,1.85,0,0.1,0.22,0.02,0,2.18,img/Fig.jpg
+Dairy,Goat milk,2.97,1.2,0,0.1,0.21,0.01,0,1.52,img/Fig.jpg
+Dairy,Cheddar cheese,1.79,5.31,0.35,0.63,0.27,0.04,0.01,6.59,img/Fig.jpg
+Dairy,Cow Milk,1.2,1.11,0.01,0.1,0.22,0.02,0,1.46,img/Fig.jpg
+Dairy,Yogurt, Greek-style," plain""",1.22,1.03,0.15,0.42,0.25,0.04,img/Fig.jpg
+Dairy,Brie cheese,2.22,4.46,0.22,0.21,0.25,0.04,0.01,5.18,img/Fig.jpg
+Dairy,Feta cheese,2.38,5.11,0.25,0.65,0.26,0.04,0.01,6.3,img/Fig.jpg
+Dairy,Grana Padano,2.23,5.19,0.36,0.34,0.24,0.04,0.01,6.17,img/Fig.jpg
+Dairy,Mozzarella cheese,1.78,3.82,0.25,0.35,0.25,0.04,0.01,4.71,img/Fig.jpg
+Dairy,Gouda cheese,2.21,4.99,0.38,0.63,0.27,0.04,0.01,6.3,img/Fig.jpg
+Dairy,Parmesan cheese,1.77,5.23,0.36,0.34,0.24,0.04,0.01,6.21,img/Fig.jpg
+Dairy,Goat cheese ,2.44,5.99,0.25,0.6,0.27,0.04,0.01,7.14,img/Fig.jpg
+Fish,Anchovy,2.73,1.01,0,0.47,0.98,0.04,0.01,2.51,img/Fig.jpg
+Fish,Mediterranean bass,2.94,10.7,0,0.47,1.09,0.04,0.01,12.3,img/Fig.jpg
+Fish,Haddock,2.93,10.3,0,0.47,1.27,0.04,0.01,12,img/Fig.jpg
+Fish,Herring,2.74,1.18,0,0.47,0.98,0.04,0.01,2.68,img/Fig.jpg
+Fish,Mackerel,2.74,1.15,0,0.47,0.95,0.04,0.01,2.62,img/Fig.jpg
+Fish,Sardine,2.72,0.78,0,0.47,0.98,0.04,0.01,2.28,img/Fig.jpg
+Fish,Salmon,2.52,4.16,0.03,0.47,0.85,0.04,0.01,5.55,img/Fig.jpg
+Fish,Tuna,2.9,3.61,0,0.47,0.86,0.04,0.01,4.98,img/Fig.jpg
+Fish,Rainbow trout,2.93,4.67,0,0.47,0.98,0.04,0.01,6.17,img/Fig.jpg

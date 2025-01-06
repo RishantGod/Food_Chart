@@ -1,0 +1,26 @@
+.Plate_title{
+    font-family: 'Roboto', sans-serif;
+    fill: #4b4b4b;
+    font-weight: bold;
+    margin-bottom: 10px
+}
+
+.subtitle{
+    font-family: 'Roboto', sans-serif;
+    fill: #4b4b4b;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px
+}
+
+.hover-title{
+    font-family: 'Roboto', sans-serif;
+    fill: #4b4b4b;
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 10px
+}
+
+.hover-total{
+    font-family: 'source san pro', sans-serif;
+}
