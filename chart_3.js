@@ -11,14 +11,12 @@ async function foodchart() {
 
 
     // Preload images using Promise.all
-    const preloadedImages = await Promise.all(data.map(d => {
-        return new Promise((resolve, reject) => {
-            const img = new Image();
-            img.src = image(d);
-            img.onload = () => resolve(img);
-            img.onerror = reject;
-        });
-    }));
+    const preloadedImages = [];
+    data.forEach(d => {
+        const img = new Image();
+        img.src = image(d);
+        preloadedImages.push(img);
+    });
 
 
     const agriculture = d => +d["Agriculture"];
