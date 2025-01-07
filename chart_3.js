@@ -9,6 +9,15 @@ async function foodchart() {
     const total = d => +d["Total"];
     const image = d => d["Images"];
 
+    // Preload images
+    const preloadedImages = [];
+    data.forEach(d => {
+        const img = new Image();
+        img.src = image(d);
+        preloadedImages.push(img);
+    });
+
+
     const agriculture = d => +d["Agriculture"];
     const transformation = d => +d["Transformation"];
     const packaging = d => +d["Packaging"];
