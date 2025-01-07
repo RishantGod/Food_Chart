@@ -75,11 +75,6 @@ async function foodchart() {
     const averageTotals = calculateAverageTotalPerCategory(data, colorAccessor, total);
  
 
-    
-    const option_one = ['#ec111a', '#fb6330', '#ffd42f', '#138468', '#009dd6', '#7849b8', '#f2609e'] 
-    const option_two = ['#7DC462', '#0D95D0','#E72F52','#774FA0','#EFB743', '#D44627',"url(#ffflux-gradient)"]
-    
-
 // Define linear gradients
 const defs = chart.append("defs");
 
@@ -204,8 +199,6 @@ const colorScale = d3.scaleOrdinal()
         "url(#gradientRed)", 
         "url(#gradientPink)",]); // Add more gradient references as needed
 
-
-
     const radiusScale = d3.scalePow()
         .domain([0, 1])
         .range([3, 10])
@@ -228,11 +221,8 @@ const colorScale = d3.scaleOrdinal()
         .domain([0, d3.max(filteredData, total)])   
         .range([20,30])
         .exponent(2);
-        
-
 
     console.log("Filtered data:", filteredData);
-
 
     function calculatePosition(index, total, radius) {
         const angle = ((index / total) * 2 * Math.PI) - 1/2 * Math.PI;
@@ -242,7 +232,6 @@ const colorScale = d3.scaleOrdinal()
     }
 
 
-
     // 5. Draw data
 
     const bounds = chart.append("g")
@@ -250,7 +239,8 @@ const colorScale = d3.scaleOrdinal()
 
     const radius = 350;
 
- 
+
+
 
 
 
@@ -273,7 +263,6 @@ const colorScale = d3.scaleOrdinal()
                 .transition().duration(100)
                 .style("opacity", 0.1);
 
-            console.log("Image path:", image(d));
 
             d3.select('.Plate_title')
                 .transition().duration(100)
@@ -292,15 +281,36 @@ const colorScale = d3.scaleOrdinal()
 
             d3.selectAll('path.data-symbol')
                 .attr('fill-opacity', 0)
-            
+
+            chart.append("text")
+                .attr("class", "hover-title")
+                .attr("x", dimensions.width / 2)
+                .attr("y", dimensions.height / 2 + 130)
+                .attr("text-anchor", "middle")
+                .style("fill", "black")
+                .text(name(d));
+
+
+            chart.append("text")
+                .attr("class", "hover-total")
+                .attr("x", dimensions.width / 2)
+                .attr("y", dimensions.height / 2 + 170)
+                .attr("text-anchor", "middle")
+                .style("font-size", "22px")
+                .style("fill", total(d) > 2 ? "red" : total(d) > 1 ? "orange": "green")
+                .html(total(d)+ " kgCO<tspan baseline-shift='sub' font-size='12px'>2</tspan>e");
             
         })
         .on("mouseout", function() {
+        
+
+            d3.selectAll(".hover-title").remove();
+            d3.selectAll(".hover-total").remove();
 
             d3.selectAll("circle.data-circle")
                 .transition().duration(100)
                 .style("opacity", 1);
-        
+                
             
             d3.select('.Plate_title')
                 .transition().duration(300)
@@ -336,12 +346,14 @@ const colorScale = d3.scaleOrdinal()
         .attr("fill", 'grey')
         .attr('fill-opacity', 0.4 );
 
+
     chart.append('text')
-        .attr('class', 'Food_name')
+        .attr('class','Food_Name')
         .attr('x', dimensions.width/2)
-        .attr('y', dimensions.height/2 - 150)
+        .attr('y', dimensions.height/2 - 50)
         .attr('text-anchor', 'middle')
-        .style('font-size', '26px')
+        .style('font-size', '24px')
+
 
 
     chart.append('text')
@@ -419,7 +431,6 @@ const colorScale = d3.scaleOrdinal()
         .attr("fill", "none")
         .attr("stroke", "grey")
         .attr("stroke-opacity", 0.3);
-
 
 }
 
