@@ -1,26 +1,40 @@
-.Plate_title{
-    font-family: 'Roboto', sans-serif;
-    fill: #4b4b4b;
-    font-weight: bold;
-    margin-bottom: 10px
+#chart .Plate_title {
+    font-family: "ltc-goudy-oldstyle-pro", serif;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 65px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
 }
 
-.subtitle{
-    font-family: 'Roboto', sans-serif;
+.Subtitle{
+    font-family: "Gabarito";
     fill: #4b4b4b;
-    font-weight: bold;
     font-size: 16px;
     margin-bottom: 10px
 }
 
 .hover-title{
-    font-family: 'Roboto', sans-serif;
-    fill: #4b4b4b;
-    font-weight: bold;
-    font-size: 32px;
-    margin-bottom: 10px
+    font-family: "Zapfino";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
 }
 
 .hover-total{
-    font-family: 'source san pro', sans-serif;
+    font-family: "Gabarito";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
 }
+
